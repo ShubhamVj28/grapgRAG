@@ -11,6 +11,7 @@ st.set_page_config(
     menu_items=None
 )
 
+hello
 # Set the title of the app
 st.title("Knowledge Graph From Text")
 
